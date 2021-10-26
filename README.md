@@ -2,7 +2,7 @@
 
 # Propósito do Projeto
 
-Criar rotas de API com retorno de dados para serem consumidos em projetos front-end
+Criar rotas de API com retorno de dados para serem utilziados em projetos front-end
 
 ## 🚀 Instalando o projeto na sua maquina
 
